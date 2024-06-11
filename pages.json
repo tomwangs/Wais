@@ -1,0 +1,49 @@
+{
+	"pages": [{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "SolanaFi"
+			}
+		},
+		{
+			"path": "pages/node/node",
+			"style": {
+				"navigationBarTitleText": "SolanaFi"
+			}
+		},
+		{
+			"path": "pages/pledge/pledge",
+			"style": {
+				"navigationBarTitleText": "SolanaFi"
+			}
+		},
+		{
+			"path": "pages/assets/assets",
+			"style": {
+				"navigationBarTitleText": "SolanaFi"
+			}
+		},
+		{
+			"path": "pages/profit/profit",
+			"style": {
+				"navigationBarTitleText": "SolanaFi"
+			}
+		},
+		{
+			"path": "pages/zy-bills/zy-bills",
+			"style": {
+				"navigationBarTitleText": "SolanaFi"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "SolanaFi",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"navigationStyle": "custom",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	}
+}
